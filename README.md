@@ -21,4 +21,4 @@ The notebook is intended for learners of any native language to explore and prac
 🤔 AI-generated multiple choice quizzes based on native/target pairs
 
 
-[Link to Medium article]([url](https://medium.com/@bhatiarhythm06/from-bollywood-to-berlin-building-a-culturally-adaptive-ai-language-tutor-using-googles-gemma-dff148fc715b))
+[Link to Medium article](https://medium.com/@bhatiarhythm06/from-bollywood-to-berlin-building-a-culturally-adaptive-ai-language-tutor-using-googles-gemma-dff148fc715b)
