@@ -19,3 +19,6 @@ The notebook is intended for learners of any native language to explore and prac
 👩‍🎓 Flan-T5-based explanation of target phrases in English
 
 🤔 AI-generated multiple choice quizzes based on native/target pairs
+
+
+More onMedium: https://medium.com/@bhatiarhythm06/from-bollywood-to-berlin-building-a-culturally-adaptive-ai-language-tutor-using-googles-gemma-dff148fc715b
